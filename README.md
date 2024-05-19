@@ -1,5 +1,5 @@
-This an "Airbnb" web
+This is an "Airbnb" website.
 
-It aims at capturing the beauty and business opportunities inherent in Airbnb project.
-git commit -m "Add README file"
+It aims at capturing the beauty, and business opportunities inherent in Airbnb project.
+
 
