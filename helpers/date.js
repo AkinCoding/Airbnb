@@ -11,3 +11,9 @@
 //
 //
 //
+let data = {
+    signIn: false.valueOf,
+    signOut: verify,
+};
+
+export default data;
